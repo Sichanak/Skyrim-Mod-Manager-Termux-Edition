@@ -20,3 +20,4 @@ SMM is a lightweight command-line mod manager for Skyrim LE with FOMOD support, 
    ```bash
    python3 skyrim_mod_manager.py
    ```
+   #release coming soon
