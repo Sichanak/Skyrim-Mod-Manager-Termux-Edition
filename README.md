@@ -3,6 +3,11 @@
 
 SMM is a lightweight command-line mod manager for Skyrim LE with FOMOD support, file verification, and manual mod detection.
 
+<p align="center">
+  <img src="Screenshot_2026-11-24-00-45-13-856_com.termux.jpg" width="160" alt="Screenshot 1" />
+  <img src="Screenshot_2026-11-24-00-44-03-760_com.termux.jpg" width="160" alt="Screenshot 2" />
+</p>
+   
 > **Note:** This project was vibe-coded using free AI tools, so don't expect expect much but it gets the job done! If you find it useful for managing your mods give it a star i want see how it feels like (its my first time making something this useful)
 
 ### What It Does
